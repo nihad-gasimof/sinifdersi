@@ -1,0 +1,14 @@
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\bin\Debug\net8.0\SinifDersi.exe
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\bin\Debug\net8.0\SinifDersi.deps.json
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\bin\Debug\net8.0\SinifDersi.runtimeconfig.json
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\bin\Debug\net8.0\SinifDersi.dll
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\bin\Debug\net8.0\SinifDersi.pdb
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.dll
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\refint\SinifDersi.dll
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.pdb
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\SinifDersi.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\SinifDersi\SinifDersi\obj\Debug\net8.0\ref\SinifDersi.dll
